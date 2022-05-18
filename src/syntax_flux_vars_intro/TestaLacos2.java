@@ -10,10 +10,6 @@ public class TestaLacos2 {
 
 			for (int coluna = 0; coluna < 10; coluna++) {
 
-				if (coluna > linha) {
-					break;
-				}
-
 				System.out.print("*");
 			}
 			System.out.println();
